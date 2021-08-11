@@ -1,0 +1,7 @@
+C:\Users\hai\Desktop\CSharp\Visual Studio\Stacks In Csharp\Stacks In Csharp\bin\Debug\Stacks In Csharp.exe.config
+C:\Users\hai\Desktop\CSharp\Visual Studio\Stacks In Csharp\Stacks In Csharp\bin\Debug\Stacks In Csharp.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\Stacks In Csharp\Stacks In Csharp\bin\Debug\Stacks In Csharp.pdb
+C:\Users\hai\Desktop\CSharp\Visual Studio\Stacks In Csharp\Stacks In Csharp\obj\Debug\Stacks In Csharp.csproj.AssemblyReference.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\Stacks In Csharp\Stacks In Csharp\obj\Debug\Stacks In Csharp.csproj.CoreCompileInputs.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\Stacks In Csharp\Stacks In Csharp\obj\Debug\Stacks In Csharp.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\Stacks In Csharp\Stacks In Csharp\obj\Debug\Stacks In Csharp.pdb
