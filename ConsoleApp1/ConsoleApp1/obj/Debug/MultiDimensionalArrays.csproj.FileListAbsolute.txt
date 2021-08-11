@@ -1,0 +1,7 @@
+C:\Users\hai\Desktop\CSharp\Visual Studio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\hai\Desktop\CSharp\Visual Studio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\hai\Desktop\CSharp\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\MultiDimensionalArrays.csproj.AssemblyReference.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\MultiDimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

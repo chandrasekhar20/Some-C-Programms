@@ -1,0 +1,16 @@
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArrayLists\ArrayLists\bin\Debug\net5.0\ArrayLists.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArrayLists\ArrayLists\bin\Debug\net5.0\ArrayLists.deps.json
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArrayLists\ArrayLists\bin\Debug\net5.0\ArrayLists.runtimeconfig.json
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArrayLists\ArrayLists\bin\Debug\net5.0\ArrayLists.runtimeconfig.dev.json
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArrayLists\ArrayLists\bin\Debug\net5.0\ArrayLists.dll
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArrayLists\ArrayLists\bin\Debug\net5.0\ref\ArrayLists.dll
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArrayLists\ArrayLists\bin\Debug\net5.0\ArrayLists.pdb
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.csproj.AssemblyReference.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.AssemblyInfoInputs.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.AssemblyInfo.cs
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.csproj.CoreCompileInputs.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.dll
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArrayLists\ArrayLists\obj\Debug\net5.0\ref\ArrayLists.dll
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.pdb
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.genruntimeconfig.cache
