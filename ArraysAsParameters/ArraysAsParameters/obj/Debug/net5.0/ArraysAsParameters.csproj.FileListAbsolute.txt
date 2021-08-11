@@ -1,0 +1,16 @@
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysAsParameters\ArraysAsParameters\bin\Debug\net5.0\ArraysAsParameters.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysAsParameters\ArraysAsParameters\bin\Debug\net5.0\ArraysAsParameters.deps.json
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysAsParameters\ArraysAsParameters\bin\Debug\net5.0\ArraysAsParameters.runtimeconfig.json
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysAsParameters\ArraysAsParameters\bin\Debug\net5.0\ArraysAsParameters.runtimeconfig.dev.json
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysAsParameters\ArraysAsParameters\bin\Debug\net5.0\ArraysAsParameters.dll
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysAsParameters\ArraysAsParameters\bin\Debug\net5.0\ref\ArraysAsParameters.dll
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysAsParameters\ArraysAsParameters\bin\Debug\net5.0\ArraysAsParameters.pdb
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysAsParameters\ArraysAsParameters\obj\Debug\net5.0\ArraysAsParameters.csproj.AssemblyReference.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysAsParameters\ArraysAsParameters\obj\Debug\net5.0\ArraysAsParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysAsParameters\ArraysAsParameters\obj\Debug\net5.0\ArraysAsParameters.AssemblyInfoInputs.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysAsParameters\ArraysAsParameters\obj\Debug\net5.0\ArraysAsParameters.AssemblyInfo.cs
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysAsParameters\ArraysAsParameters\obj\Debug\net5.0\ArraysAsParameters.csproj.CoreCompileInputs.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysAsParameters\ArraysAsParameters\obj\Debug\net5.0\ArraysAsParameters.dll
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysAsParameters\ArraysAsParameters\obj\Debug\net5.0\ref\ArraysAsParameters.dll
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysAsParameters\ArraysAsParameters\obj\Debug\net5.0\ArraysAsParameters.pdb
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysAsParameters\ArraysAsParameters\obj\Debug\net5.0\ArraysAsParameters.genruntimeconfig.cache
