@@ -1,0 +1,16 @@
+C:\Users\hai\Desktop\CSharp\Visual Studio\JaggedArrays-Challenge\JaggedArrays-Challenge\bin\Debug\net5.0\JaggedArrays-Challenge.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\JaggedArrays-Challenge\JaggedArrays-Challenge\bin\Debug\net5.0\JaggedArrays-Challenge.deps.json
+C:\Users\hai\Desktop\CSharp\Visual Studio\JaggedArrays-Challenge\JaggedArrays-Challenge\bin\Debug\net5.0\JaggedArrays-Challenge.runtimeconfig.json
+C:\Users\hai\Desktop\CSharp\Visual Studio\JaggedArrays-Challenge\JaggedArrays-Challenge\bin\Debug\net5.0\JaggedArrays-Challenge.runtimeconfig.dev.json
+C:\Users\hai\Desktop\CSharp\Visual Studio\JaggedArrays-Challenge\JaggedArrays-Challenge\bin\Debug\net5.0\JaggedArrays-Challenge.dll
+C:\Users\hai\Desktop\CSharp\Visual Studio\JaggedArrays-Challenge\JaggedArrays-Challenge\bin\Debug\net5.0\ref\JaggedArrays-Challenge.dll
+C:\Users\hai\Desktop\CSharp\Visual Studio\JaggedArrays-Challenge\JaggedArrays-Challenge\bin\Debug\net5.0\JaggedArrays-Challenge.pdb
+C:\Users\hai\Desktop\CSharp\Visual Studio\JaggedArrays-Challenge\JaggedArrays-Challenge\obj\Debug\net5.0\JaggedArrays-Challenge.csproj.AssemblyReference.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\JaggedArrays-Challenge\JaggedArrays-Challenge\obj\Debug\net5.0\JaggedArrays-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hai\Desktop\CSharp\Visual Studio\JaggedArrays-Challenge\JaggedArrays-Challenge\obj\Debug\net5.0\JaggedArrays-Challenge.AssemblyInfoInputs.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\JaggedArrays-Challenge\JaggedArrays-Challenge\obj\Debug\net5.0\JaggedArrays-Challenge.AssemblyInfo.cs
+C:\Users\hai\Desktop\CSharp\Visual Studio\JaggedArrays-Challenge\JaggedArrays-Challenge\obj\Debug\net5.0\JaggedArrays-Challenge.csproj.CoreCompileInputs.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\JaggedArrays-Challenge\JaggedArrays-Challenge\obj\Debug\net5.0\JaggedArrays-Challenge.dll
+C:\Users\hai\Desktop\CSharp\Visual Studio\JaggedArrays-Challenge\JaggedArrays-Challenge\obj\Debug\net5.0\ref\JaggedArrays-Challenge.dll
+C:\Users\hai\Desktop\CSharp\Visual Studio\JaggedArrays-Challenge\JaggedArrays-Challenge\obj\Debug\net5.0\JaggedArrays-Challenge.pdb
+C:\Users\hai\Desktop\CSharp\Visual Studio\JaggedArrays-Challenge\JaggedArrays-Challenge\obj\Debug\net5.0\JaggedArrays-Challenge.genruntimeconfig.cache

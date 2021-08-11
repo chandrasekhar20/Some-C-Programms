@@ -1,0 +1,16 @@
+C:\Users\hai\Desktop\CSharp\Visual Studio\Members And Finalizers\Members And Finalizers\bin\Debug\net5.0\Members And Finalizers.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\Members And Finalizers\Members And Finalizers\bin\Debug\net5.0\Members And Finalizers.deps.json
+C:\Users\hai\Desktop\CSharp\Visual Studio\Members And Finalizers\Members And Finalizers\bin\Debug\net5.0\Members And Finalizers.runtimeconfig.json
+C:\Users\hai\Desktop\CSharp\Visual Studio\Members And Finalizers\Members And Finalizers\bin\Debug\net5.0\Members And Finalizers.runtimeconfig.dev.json
+C:\Users\hai\Desktop\CSharp\Visual Studio\Members And Finalizers\Members And Finalizers\bin\Debug\net5.0\Members And Finalizers.dll
+C:\Users\hai\Desktop\CSharp\Visual Studio\Members And Finalizers\Members And Finalizers\bin\Debug\net5.0\ref\Members And Finalizers.dll
+C:\Users\hai\Desktop\CSharp\Visual Studio\Members And Finalizers\Members And Finalizers\bin\Debug\net5.0\Members And Finalizers.pdb
+C:\Users\hai\Desktop\CSharp\Visual Studio\Members And Finalizers\Members And Finalizers\obj\Debug\net5.0\Members And Finalizers.csproj.AssemblyReference.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\Members And Finalizers\Members And Finalizers\obj\Debug\net5.0\Members And Finalizers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hai\Desktop\CSharp\Visual Studio\Members And Finalizers\Members And Finalizers\obj\Debug\net5.0\Members And Finalizers.AssemblyInfoInputs.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\Members And Finalizers\Members And Finalizers\obj\Debug\net5.0\Members And Finalizers.AssemblyInfo.cs
+C:\Users\hai\Desktop\CSharp\Visual Studio\Members And Finalizers\Members And Finalizers\obj\Debug\net5.0\Members And Finalizers.csproj.CoreCompileInputs.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\Members And Finalizers\Members And Finalizers\obj\Debug\net5.0\Members And Finalizers.dll
+C:\Users\hai\Desktop\CSharp\Visual Studio\Members And Finalizers\Members And Finalizers\obj\Debug\net5.0\ref\Members And Finalizers.dll
+C:\Users\hai\Desktop\CSharp\Visual Studio\Members And Finalizers\Members And Finalizers\obj\Debug\net5.0\Members And Finalizers.pdb
+C:\Users\hai\Desktop\CSharp\Visual Studio\Members And Finalizers\Members And Finalizers\obj\Debug\net5.0\Members And Finalizers.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\hai\Desktop\CSharp\Visual Studio\Jagged Arrays\Jagged Arrays\bin\Debug\Jagged Arrays.exe.config
+C:\Users\hai\Desktop\CSharp\Visual Studio\Jagged Arrays\Jagged Arrays\bin\Debug\Jagged Arrays.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\Jagged Arrays\Jagged Arrays\bin\Debug\Jagged Arrays.pdb
+C:\Users\hai\Desktop\CSharp\Visual Studio\Jagged Arrays\Jagged Arrays\obj\Debug\Jagged Arrays.csproj.AssemblyReference.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\Jagged Arrays\Jagged Arrays\obj\Debug\Jagged Arrays.csproj.CoreCompileInputs.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\Jagged Arrays\Jagged Arrays\obj\Debug\Jagged Arrays.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\Jagged Arrays\Jagged Arrays\obj\Debug\Jagged Arrays.pdb

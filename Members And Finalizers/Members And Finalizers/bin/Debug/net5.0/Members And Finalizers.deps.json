@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Members And Finalizers/1.0.0": {
+        "runtime": {
+          "Members And Finalizers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Members And Finalizers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

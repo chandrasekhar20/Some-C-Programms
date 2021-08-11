@@ -1,0 +1,7 @@
+C:\Users\hai\Desktop\CSharp\Visual Studio\Queues In Csharp\Queues In Csharp\bin\Debug\Queues In Csharp.exe.config
+C:\Users\hai\Desktop\CSharp\Visual Studio\Queues In Csharp\Queues In Csharp\bin\Debug\Queues In Csharp.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\Queues In Csharp\Queues In Csharp\bin\Debug\Queues In Csharp.pdb
+C:\Users\hai\Desktop\CSharp\Visual Studio\Queues In Csharp\Queues In Csharp\obj\Debug\Queues In Csharp.csproj.AssemblyReference.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\Queues In Csharp\Queues In Csharp\obj\Debug\Queues In Csharp.csproj.CoreCompileInputs.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\Queues In Csharp\Queues In Csharp\obj\Debug\Queues In Csharp.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\Queues In Csharp\Queues In Csharp\obj\Debug\Queues In Csharp.pdb

@@ -1,0 +1,7 @@
+C:\Users\hai\Desktop\CSharp\Visual Studio\Nested for loops\Nested for loops\bin\Debug\Nested for loops.exe.config
+C:\Users\hai\Desktop\CSharp\Visual Studio\Nested for loops\Nested for loops\bin\Debug\Nested for loops.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\Nested for loops\Nested for loops\bin\Debug\Nested for loops.pdb
+C:\Users\hai\Desktop\CSharp\Visual Studio\Nested for loops\Nested for loops\obj\Debug\Nested for loops.csproj.AssemblyReference.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\Nested for loops\Nested for loops\obj\Debug\Nested for loops.csproj.CoreCompileInputs.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\Nested for loops\Nested for loops\obj\Debug\Nested for loops.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\Nested for loops\Nested for loops\obj\Debug\Nested for loops.pdb
