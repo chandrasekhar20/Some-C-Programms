@@ -1,0 +1,7 @@
+C:\Users\hai\Desktop\CSharp\Visual Studio\Hashtables\Hashtables\bin\Debug\Hashtables.exe.config
+C:\Users\hai\Desktop\CSharp\Visual Studio\Hashtables\Hashtables\bin\Debug\Hashtables.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\Hashtables\Hashtables\bin\Debug\Hashtables.pdb
+C:\Users\hai\Desktop\CSharp\Visual Studio\Hashtables\Hashtables\obj\Debug\Hashtables.csproj.AssemblyReference.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\Hashtables\Hashtables\obj\Debug\Hashtables.csproj.CoreCompileInputs.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\Hashtables\Hashtables\obj\Debug\Hashtables.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\Hashtables\Hashtables\obj\Debug\Hashtables.pdb

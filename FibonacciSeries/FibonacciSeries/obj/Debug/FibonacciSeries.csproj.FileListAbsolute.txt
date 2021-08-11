@@ -1,0 +1,7 @@
+C:\Users\hai\Desktop\CSharp\Visual Studio\FibonacciSeries\FibonacciSeries\bin\Debug\FibonacciSeries.exe.config
+C:\Users\hai\Desktop\CSharp\Visual Studio\FibonacciSeries\FibonacciSeries\bin\Debug\FibonacciSeries.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\FibonacciSeries\FibonacciSeries\bin\Debug\FibonacciSeries.pdb
+C:\Users\hai\Desktop\CSharp\Visual Studio\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.csproj.AssemblyReference.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.csproj.CoreCompileInputs.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.pdb

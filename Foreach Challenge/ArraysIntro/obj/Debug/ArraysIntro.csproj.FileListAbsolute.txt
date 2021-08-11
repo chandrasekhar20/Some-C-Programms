@@ -1,0 +1,7 @@
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysIntro\ArraysIntro\bin\Debug\ArraysIntro.exe.config
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysIntro\ArraysIntro\bin\Debug\ArraysIntro.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysIntro\ArraysIntro\bin\Debug\ArraysIntro.pdb
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysIntro\ArraysIntro\obj\Debug\ArraysIntro.csproj.AssemblyReference.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysIntro\ArraysIntro\obj\Debug\ArraysIntro.csproj.CoreCompileInputs.cache
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysIntro\ArraysIntro\obj\Debug\ArraysIntro.exe
+C:\Users\hai\Desktop\CSharp\Visual Studio\ArraysIntro\ArraysIntro\obj\Debug\ArraysIntro.pdb
